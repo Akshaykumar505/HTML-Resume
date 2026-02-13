@@ -38,6 +38,9 @@ Through this project, I learned:
 - HTML page structure
 - How to deploy a website
 
+- <img width="1909" height="930" alt="Screenshot 2026-02-13 142925" src="https://github.com/user-attachments/assets/226d5ff8-bcd3-4b25-b66e-1d20364c089f" />
+
+
 📬 Contact
 
 Name: Akshay Kumar
@@ -45,3 +48,4 @@ GitHub: https://github.com/Akshaykumar505/HTML-Resume.git
 ---
 
 ⭐ If you like this project, please give it a star!
+
