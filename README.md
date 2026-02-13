@@ -38,7 +38,9 @@ Through this project, I learned:
 - HTML page structure
 - How to deploy a website
 
+- Screenshot of Resume
 - <img width="1909" height="930" alt="Screenshot 2026-02-13 142925" src="https://github.com/user-attachments/assets/226d5ff8-bcd3-4b25-b66e-1d20364c089f" />
+<img width="1920" height="843" alt="Screenshot 2026-02-13 185356" src="https://github.com/user-attachments/assets/dd7c14a6-8372-4018-b8b5-bf6767e1d65e" />
 
 
 📬 Contact
