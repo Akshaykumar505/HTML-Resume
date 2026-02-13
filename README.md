@@ -3,6 +3,7 @@ This is personal resume website built using HTML. It showcases my skills, projec
 
 🚀Live Demo
 🔗 View Resume:nimble-kulfi-2d9c0b.netlify.app
+
 📌 Features
 - Responsive design (works on mobile, tablet, and desktop)
 - Clean and modern UI
@@ -37,8 +38,9 @@ Through this project, I learned:
 - How to deploy a website
 
 📬 Contact
+
 Name: Akshay Kumar
-GitHub:
+GitHub: https://github.com/Akshaykumar505/HTML-Resume.git
 ---
 
 ⭐ If you like this project, please give it a star!
