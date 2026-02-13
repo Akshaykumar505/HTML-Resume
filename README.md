@@ -20,6 +20,7 @@ This is personal resume website built using HTML. It showcases my skills, projec
 
 📂 Project Structure
 resume-website/
+
 │
 ├── index.html
 
